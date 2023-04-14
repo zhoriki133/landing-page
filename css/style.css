@@ -1,5 +1,5 @@
 body {
-    font-family: 'roboto';
+    font-family: 'Roboto', sans-serif;
 }
 
 .hero {
@@ -16,9 +16,53 @@ body {
     color: #F9FAF8;
 }
 
+.secondary {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+li {
+    list-style: none;
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+a {
+    text-decoration: none;
+}
+
+.bottom {
+    background-color: #E5E7EB;
+}
+.quote {
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
+
+}
+
+.call {
+    background-color: #3882F6;
+}
+
+h4 {
+    color: #F9FAF8;
+    font-size: 18px;
+}
+
+.information {
+    font-size: 36px;
+    font-weight: 900;
+    color: #1F2937;
+}
+
 .logo-text {
     font-size: 24px;
     color: #F9FAF8;
+}
+
+button {
+    background-color: #3882F6;
 }
 
 .holder {
